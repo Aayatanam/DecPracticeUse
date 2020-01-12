@@ -17,6 +17,7 @@ public class LoginPage {
 	//creating locators using npf
 	By emailId=By.id("");
 	
+	WebElement element=driver.findElement(By.Id);
 	
 	
 	
